@@ -16,3 +16,5 @@ de stadiul acesteia (PROCESSING, SHIPPED, COMPLETED, ANNULLED).
 10. Recenziile pot fi sterse.
 
 Swagger UI: http://localhost:8081/swagger-ui.html
+
+![Coverage](https://user-images.githubusercontent.com/38529364/188517395-ded04068-8d65-49fb-84a0-39600afe2963.png)
